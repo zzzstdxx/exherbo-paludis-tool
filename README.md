@@ -1,7 +1,7 @@
 # exherbo-paludis-tool
 A Exherbo Linux tool written in C++
 
-Function:
+# Function:
 
 ``shawa@exherbo-btw ~ $ doas paludis``
 
@@ -14,6 +14,6 @@ Function:
 ``(6) Read unread repository news``
 ``(0) Exit``
 ``Select an option:``
-Installation:
+# Installation:
 Install the file, then run ``gcc paludis.cpp -o paludis`` to compile it.
 If you want you can copy it into ``/usr/bin/`` by doing ``doas cp paludis /usr/bin/`` to use it as a command
