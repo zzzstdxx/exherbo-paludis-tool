@@ -12,5 +12,5 @@ A Exherbo Linux tool written in C++
 ``(0) Exit`` (exit)
 ``Select an option:``
 # Installation:
-Install the file, then run ``gcc paludis.cpp -o paludis`` to compile it.
+Install the file, then run ``gcc paludis.cpp -o paludis``(or use your desired compiler) to compile it.
 If you want you can copy it into ``/usr/bin/`` by doing ``doas cp paludis /usr/bin/`` to use it as a command
